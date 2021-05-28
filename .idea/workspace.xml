@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c1a727c-b8d1-42ed-b1ce-9edb7ce92aa0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1rIOMboXO0WYu0rHPVhj6qRAs7E" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/github/viktority/client/paystack/service" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dexterio\Documents\Projects\paystack-client\src\main\java\com\github\viktority\client\paystack\service" />
+      <recent name="C:\Users\Dexterio\Documents\Projects\paystack-client\src\main\resources" />
+      <recent name="C:\Users\Dexterio\Documents\Projects\paystack-client\src\main\java\com\github\viktority\client" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Scala/Play/play-samples-play-scala-forms-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/Play/play-samples-play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/Play/play-samples-play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Scala/Play/play-samples-play-scala-slick-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c1a727c-b8d1-42ed-b1ce-9edb7ce92aa0" name="Default Changelist" comment="" />
+      <created>1618660090981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618660090981</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="92" key="#Scopes" timestamp="1618752274359">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="362" y="92" key="#Scopes/0.0.1536.864@0.0.1536.864" timestamp="1618752274359" />
+    <state x="575" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1622196427521">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="575" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1622196427521" />
+    <state x="319" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1619021385637">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="319" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1619021385637" />
+  </component>
+</project>
