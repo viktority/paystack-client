@@ -19,18 +19,15 @@ logging:
     console: '%d{yyyy-MM-dd HH:mm:ss} - %logger{36} - %msg%n'
     file: '%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5level] %X{CORRELATION_ID} %X{TENANT}:%X{USER} [%t] %c:%M - %msg%n'
 
-
 hystrix:
   command:
     default:
       execution:
         isolation:
           strategy: SEMAPHORE
-
 feign:
   hystrix:
     enabled: true
-
 paystack:
   server:
     url: https://api.paystack.co

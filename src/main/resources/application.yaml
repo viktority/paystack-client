@@ -33,5 +33,5 @@ paystack:
     url: https://api.paystack.co
   api:
     key:
-      secret: sk_test_79bb98cc259c5a96893cd5d04f3e6d94043019b5
-      public: pk_test_537215c6e6ea99f6a2def478e993493c8ff80297
+      secret:
+      public:
