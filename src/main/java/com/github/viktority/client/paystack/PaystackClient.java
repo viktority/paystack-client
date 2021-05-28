@@ -22,7 +22,7 @@ public interface PaystackClient {
 
     @RequestLine("POST /transfer/bulk ")
     @Headers({"Authorization: {token}", "Content-Type: application/json"})
-    PaymentResponseModel payDispatchers(@RequestBody PaymentRequestModel requestModel, @Param("token") String token);
+    PaymentResponseModel transfer(@RequestBody PaymentRequestModel requestModel, @Param("token") String token);
 
     @RequestLine("POST /transaction/charge_authorization")
     @Headers({"Authorization: {token}", "Content-Type: application/json"})
@@ -43,7 +43,7 @@ public interface PaystackClient {
 
     @RequestLine("PUT /subaccount/{id_or_code}")
     @Headers({"Authorization: {token}", "Content-Type: application/json"})
-    SubAccountResponse updateSubAccount(@RequestBody UpdateSubAccountModel model, @Param("token") String token, @Param("id_or_code") String id_or_code);
+    SubAccountResponse updateSubAccount(@RequestBody UpdateSubAccountModel model, @Param("id_or_code") String id_or_code, @Param("token") String token);
 
     @RequestLine("GET /bank")
     @Headers({"Authorization: {token}", "Content-Type: application/json"})
